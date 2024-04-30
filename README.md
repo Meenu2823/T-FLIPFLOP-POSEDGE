@@ -28,7 +28,15 @@ From the above characteristic table, we can directly write the next state equati
 
 **Procedure**
 
-/* write all the steps invloved */
+1.Write code to implement SR flipflop using verilog and validating their functionality using their functional tables.
+
+2.Run compilation to check for errors.
+
+3.Open waveform output and load input values.
+
+4.Run simulation to get the output.
+
+5.Open in RTL viewers to get RTL diagram output
 
 **PROGRAM**
 ~~~
@@ -65,3 +73,5 @@ endmodule
 ![image](https://github.com/Meenu2823/T-FLIPFLOP-POSEDGE/assets/139416219/e4476c8b-2e69-416e-99a4-f861d78fbc22)
 
 **RESULTS**
+
+Thus, the program to implement a D flipflop using verilog and validating their functionality using their functional tables has been executed successfully.
